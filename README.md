@@ -56,6 +56,3 @@ When I’m not coding, you’ll likely find me **playing chess** or **lifting we
 
 🚀 **Check out my repositories and let's collaborate!**  
 
----
-
-This README is structured and visually appealing for GitHub! Let me know if you want more customizations. 😊
