@@ -1,4 +1,4 @@
-##  🚀 Hello World! I'm Taral Shah 👋  
+##  🚀 Wassup! I'm Taral Shah 👋  
 
 ### **Full Stack Developer | AI/ML Enthusiast**  
 
@@ -31,7 +31,6 @@ When I’m not coding, you’ll likely find me **playing chess** or **lifting we
 
 ### 🏗 **Frameworks & Libraries**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
 
@@ -52,7 +51,7 @@ When I’m not coding, you’ll likely find me **playing chess** or **lifting we
 ## 📫 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taralshah09/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/taralshah09)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/taralshah995)  
 
 🚀 **Check out my repositories and let's collaborate!**  
 
