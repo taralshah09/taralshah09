@@ -1,4 +1,4 @@
-##  🚀 Wassup! I'm Taral Shah 👋  
+## 🚀 Wassup! I'm Taral Shah 👋  
 
 ### **Full Stack Developer | AI/ML Enthusiast**  
 
@@ -7,7 +7,7 @@
 
 I'm a passionate full-stack developer with a knack for building **scalable** and **efficient** web applications. My interests span **AI/ML, entrepreneurship and software development**, and I thrive on collaborating on **innovative projects** while continuously exploring new technologies.  
 
-When I’m not coding, you’ll likely find me **playing chess** or **lifting weights**—challenging both my mind and body. 🚀♟️💪
+When I’m not coding, you’ll likely find me **playing chess** or **lifting weights**—challenging both my mind and body. 🚀♟️💪  
 
 ---
 
@@ -22,21 +22,27 @@ When I’m not coding, you’ll likely find me **playing chess** or **lifting we
 
 ## 🛠 Tech Stack  
 
-### 🔧 **Programming Languages**  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+### 🔧 **Programming Languages**
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+</p>
 
-### 🏗 **Frameworks & Libraries**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+### 🏗 **Frameworks & Libraries**
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
 
-### 🗄 **Databases**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+### 🗄 **Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
 ---
 
@@ -54,4 +60,3 @@ When I’m not coding, you’ll likely find me **playing chess** or **lifting we
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/taralshah995)  
 
 🚀 **Check out my repositories and let's collaborate!**  
-
