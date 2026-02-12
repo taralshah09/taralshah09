@@ -58,9 +58,10 @@ When I'm not coding, you'll find me **competing in programming contests**, **pla
 ---
 
 ## 🏆 Competitive Programming  
-- 🥇 **[Codeforces: Pupil](https://codeforces.com/profile/taralshah992005)**  
-- 🥈 **[CodeChef: 3★](https://www.codechef.com/users/family_goal_23)**  
-- 🥉 **[LeetCode: Knight](https://leetcode.com/u/taralshah99/)**
+- 🥇 **[Codeforces: Specialist](https://codeforces.com/profile/taralshah992005)**  
+- 🥈 **[LeetCode: Knight](https://leetcode.com/u/taralshah99/)**
+- 🥉 **[CodeChef: 3★](https://www.codechef.com/users/family_goal_23)**  
+
 
 ---
 
