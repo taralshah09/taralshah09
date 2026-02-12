@@ -15,7 +15,7 @@ When I'm not coding, you'll find me **competing in programming contests**, **pla
 
 ## 🎯 What I'm Up To  
 
-- 💻 Building production-ready applications with **MERN Stack** and exploring **AI/ML**
+- 💻 Building production-ready applications with **Spring Boot**, **MERN Stack** and exploring **AI/ML**
 - 🏆 Actively competing in **competitive programming** contests (DSA & Algorithms)
 - 📚 Preparing for **technical interviews** and system design challenges
 - 🤝 Open to collaboration on **full-stack, AI/ML, and innovative projects**
@@ -40,6 +40,18 @@ When I'm not coding, you'll find me **competing in programming contests**, **pla
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
+
+### ☕ Java & Spring Ecosystem
+🏗 Backend Development (Java Stack)
+<p align="left"> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" /> <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" /> <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=docker&logoColor=white" /> </p>
+
+### ⚙️ Backend Concepts
+- RESTful API Development (Java + Spring Boot)
+- Authentication & Authorization (Spring Security, JWT)
+- ORM & Database Mapping (JPA, Hibernate)
+- Microservices Architecture
+- Exception Handling & Validation
+- Scalable Backend Design
 
 ### 🗄 **Databases & Tools**
 <p align="left">
